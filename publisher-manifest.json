@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "02a6ab053f0f5b93e2402de7",
+  "owner": "rveecqha9",
+  "repo": "page-dded50dc35fc6739ed54025c",
+  "title": "狗子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dded50dc35fc6739ed54025c",
+      "a": "狗子",
+      "b": "2027最新官网",
+      "entity": "狗子",
+      "brand": "狗子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "46ad85f4e5eaee62a27e0f8a769ae61d163a0086203b543aa3f4a67e14ecd0cf",
+      "content": {
+        "primary_entity": "狗子",
+        "keyword1": "狗子",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 各有适配方案。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先看设备适配，再挑一档顺手的套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好设备再上车",
+          "AI_DESCRIPTION": "，狗子把基础版、旗舰版和团队版三档订阅放在一起对比，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并带 IPLC 专线游戏加速，团队版每月 1000GB 流量支持 20 台设备，按年付分别 ¥150、¥350 和 ¥850，设备多、流量需求大就往上选，日常轻用从基础版起步也够。",
+          "AI_FEATURES_INTRO": "套餐选择、设备数量和订阅周期是配置前要理清的三件事。",
+          "AI_FEATURES_TITLE": "配置前理清三件事",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，先数清常用设备再对照套餐。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，日常刷流媒体与游戏加速按用量挑。",
+          "AI_FEATURE_TEXT_3": "三档都支持按年付，分别 ¥150/年、¥350/年、¥850/年，长期用可省一笔。",
+          "AI_FEATURE_TITLE_1": "设备数量对套餐",
+          "AI_FEATURE_TITLE_2": "流量档位看用量",
+          "AI_FEATURE_TITLE_3": "年付更省周期长",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步走完就能用。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "狗子提供基础版、旗舰版与团队版三档海外加速订阅，覆盖不同设备数量与流量需求，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备需求",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备 100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备带 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备支持定制路由",
+          "AI_PLANS_INTRO": "基础版适合个人轻用，旗舰版适合多设备与游戏加速，团队版适合多人共享，按设备数与流量对照即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先按常用设备数量和月流量需求，在基础版、旗舰版、团队版之间选一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与流量额度，确认当前设备满足适配要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档完成订阅导入与连接配置。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "狗子三档订阅",
+          "AI_FAQ_ANSWER_1": "狗子提供基础版、旗舰版和团队版三档。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同一时间超出数量可能导致连接不稳定，增加设备可升级到更高档套餐。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，例如基础版月付 ¥15，年付约 ¥150；旗舰版月付 ¥35，年付约 ¥350；团队版月付 ¥85，年付约 ¥850。长期使用选年付可以降低月均成本。",
+          "AI_FAQ_ANSWER_4": "按顺序操作：先根据设备数量和流量需求选择套餐，再查看对应客户端的适配要求，最后按客户端文档导入订阅信息完成配置。客户端版本不同，导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，对游戏延迟和流媒体体验有优化；团队版提供 VIP 高带宽节点和定制路由。如果对延迟敏感或需要多设备共用，选旗舰版或团队版更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "狗子有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格有什么区别？",
+          "AI_FAQ_QUESTION_4": "怎么导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1tlk4d.cn",
+    "host": "1tlk4d.cn"
+  },
+  "file_hashes": {
+    "index.html": "acbcacce2023f4f2441b0020d0a59a11ce8ec84c6eaaa61cf63e16431bcb731e",
+    "sitemap.xml": "2cd527abe809bff3091bb23ec4523810dd46f10ac0d1f5976aafc12bd7fdd3d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9fb9948c89ecad1fdf9d2f5ad5c833bc5a16d4906036eb54cecb52d177517b7f",
+    "robots.txt": "a8367aad2780fe593a5365126f3c266bee02e80f5c133e39a1dd62b57d68a81d",
+    "edaca2a8d438e68c70f7b5cf2fdfb352.txt": "c26ba2a6a9e1bae92f5fcee546c96c141f4d6641f9d891c38afefde1399482e2"
+  },
+  "revision": "1cce060625238c4259f1c6ebd2e290e3d1adee54956abf7df47bb4c5b98e6768"
+}
